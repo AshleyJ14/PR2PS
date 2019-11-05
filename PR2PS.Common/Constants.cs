@@ -39,11 +39,11 @@ namespace PR2PS.Common.Constants
         public const String ERR_NOT_IMPLEMENTED = "This feature is not implemented yet.";
         public const String ERR_MESSAGE_NOT_FOUND = "Could not find such message.";
         public const String ERR_NO_MESSAGES = "You have no messages to delete.";
-        public const String ERR_ADMINS_ARE_ABSOLUTE = "Administrators are absolute!";
+        public const String ERR_ADMINS_ARE_ABSOLUTE = "You can't warn yourself silly!";
         public const String ERR_NO_LEVEL_DATA = "No level data received to process.";
-        public const String ERR_NO_LEVEL_TITLE = "Your level needs to have title.";
+        public const String ERR_NO_LEVEL_TITLE = "Your level needs to have a title.";
         public const String ERR_INVALID_GAME_MODE = "The game mode of your level is not valid.";
-        public const String ERR_NO_SUCH_LEVEL = "Specified level can not be found or is deleted.";
+        public const String ERR_NO_SUCH_LEVEL = "Specified level could not be found or is deleted.";
         public const String ERR_NO_VERSION = "Failed to load version of the given level.";
         public const String ERR_UNSUPPORTED_SEARCH_ORDER = "Selected search order is not supported.";
         public const String ERR_SEARCH_TERM_TOO_SHORT = "Search term has to be at least 3 characters long.";
